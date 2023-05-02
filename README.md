@@ -1,4 +1,4 @@
-# MAS NUNCA TE HAGO CASO HP PERRO!
+# learn-git
 This is a test repository.
 Hello there! 
 This is a dev branch.
